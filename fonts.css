@@ -1,7 +1,7 @@
 
 /* cyrillic-ext */
 @font-face {
-  font-family: 'Comfortaa';
+  font-family: 'Comfortaa' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/comfortaa/v25/1Ptsg8LJRfWJmhDAuUs4QIFqL_KWxWMT.woff2) format('woff2');
@@ -9,7 +9,7 @@
 }
 /* cyrillic */
 @font-face {
-  font-family: 'Comfortaa';
+  font-family: 'Comfortaa' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/comfortaa/v25/1Ptsg8LJRfWJmhDAuUs4SYFqL_KWxWMT.woff2) format('woff2');
@@ -17,7 +17,7 @@
 }
 /* greek */
 @font-face {
-  font-family: 'Comfortaa';
+  font-family: 'Comfortaa' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/comfortaa/v25/1Ptsg8LJRfWJmhDAuUs4ToFqL_KWxWMT.woff2) format('woff2');
@@ -25,7 +25,7 @@
 }
 /* vietnamese */
 @font-face {
-  font-family: 'Comfortaa';
+  font-family: 'Comfortaa' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/comfortaa/v25/1Ptsg8LJRfWJmhDAuUs4QoFqL_KWxWMT.woff2) format('woff2');
@@ -33,7 +33,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Comfortaa';
+  font-family: 'Comfortaa' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/comfortaa/v25/1Ptsg8LJRfWJmhDAuUs4Q4FqL_KWxWMT.woff2) format('woff2');
@@ -41,7 +41,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Comfortaa';
+  font-family: 'Comfortaa' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/comfortaa/v25/1Ptsg8LJRfWJmhDAuUs4TYFqL_KWxQ.woff2) format('woff2');
@@ -49,7 +49,7 @@
 }
 /* vietnamese */
 @font-face {
-  font-family: 'Crimson Pro';
+  font-family: 'Crimson Pro' !important;
   font-style: italic;
   font-weight: 200 900;
   src: url(https://fonts.gstatic.com/s/crimsonpro/v10/q5uBsoa5M_tv7IihmnkabARekYxwDeChrlWhBw.woff2) format('woff2');
@@ -57,7 +57,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Crimson Pro';
+  font-family: 'Crimson Pro' !important;
   font-style: italic;
   font-weight: 200 900;
   src: url(https://fonts.gstatic.com/s/crimsonpro/v10/q5uBsoa5M_tv7IihmnkabARekY1wDeChrlWhBw.woff2) format('woff2');
@@ -65,7 +65,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Crimson Pro';
+  font-family: 'Crimson Pro' !important;
   font-style: italic;
   font-weight: 200 900;
   src: url(https://fonts.gstatic.com/s/crimsonpro/v10/q5uBsoa5M_tv7IihmnkabARekYNwDeChrlU.woff2) format('woff2');
@@ -74,7 +74,7 @@
 
 /* vietnamese */
 @font-face {
-  font-family: 'Crimson Pro';
+  font-family: 'Crimson Pro' !important;
   font-style: normal;
   font-weight: 200 900;
   src: url(https://fonts.gstatic.com/s/crimsonpro/v10/q5uDsoa5M_tv7IihmnkabARUoYF6CsKjnlQ.woff2) format('woff2');
@@ -82,7 +82,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Crimson Pro';
+  font-family: 'Crimson Pro' !important;
   font-style: normal;
   font-weight: 200 900;
   src: url(https://fonts.gstatic.com/s/crimsonpro/v10/q5uDsoa5M_tv7IihmnkabARVoYF6CsKjnlQ.woff2) format('woff2');
@@ -90,7 +90,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Crimson Pro';
+  font-family: 'Crimson Pro' !important;
   font-style: normal;
   font-weight: 200 900;
   src: url(https://fonts.gstatic.com/s/crimsonpro/v10/q5uDsoa5M_tv7IihmnkabARboYF6CsKj.woff2) format('woff2');
@@ -99,7 +99,7 @@
 
 /* vietnamese */
 @font-face {
-  font-family: 'Dosis';
+  font-family: 'Dosis' !important;
   font-style: normal;
   font-weight: 200 800;
   src: url(https://fonts.gstatic.com/s/dosis/v14/HhyaU5sn9vOmLzlnC_WoEoZKdbA.woff2) format('woff2');
@@ -107,7 +107,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Dosis';
+  font-family: 'Dosis' !important;
   font-style: normal;
   font-weight: 200 800;
   src: url(https://fonts.gstatic.com/s/dosis/v14/HhyaU5sn9vOmLzlmC_WoEoZKdbA.woff2) format('woff2');
@@ -115,7 +115,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Dosis';
+  font-family: 'Dosis' !important;
   font-style: normal;
   font-weight: 200 800;
   src: url(https://fonts.gstatic.com/s/dosis/v14/HhyaU5sn9vOmLzloC_WoEoZK.woff2) format('woff2');
@@ -124,7 +124,7 @@
 
 /* cyrillic-ext */
 @font-face {
-  font-family: 'Fira Code';
+  font-family: 'Fira Code' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/firacode/v5/uU9NCBsR6Z2vfE9aq3bh0NSDqFGedCMX.woff2) format('woff2');
@@ -132,7 +132,7 @@
 }
 /* cyrillic */
 @font-face {
-  font-family: 'Fira Code';
+  font-family: 'Fira Code' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/firacode/v5/uU9NCBsR6Z2vfE9aq3bh2dSDqFGedCMX.woff2) format('woff2');
@@ -140,7 +140,7 @@
 }
 /* greek-ext */
 @font-face {
-  font-family: 'Fira Code';
+  font-family: 'Fira Code' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/firacode/v5/uU9NCBsR6Z2vfE9aq3bh0dSDqFGedCMX.woff2) format('woff2');
@@ -148,7 +148,7 @@
 }
 /* greek */
 @font-face {
-  font-family: 'Fira Code';
+  font-family: 'Fira Code' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/firacode/v5/uU9NCBsR6Z2vfE9aq3bh3tSDqFGedCMX.woff2) format('woff2');
@@ -156,7 +156,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Fira Code';
+  font-family: 'Fira Code' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/firacode/v5/uU9NCBsR6Z2vfE9aq3bh09SDqFGedCMX.woff2) format('woff2');
@@ -164,7 +164,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Fira Code';
+  font-family: 'Fira Code' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/firacode/v5/uU9NCBsR6Z2vfE9aq3bh3dSDqFGedA.woff2) format('woff2');
@@ -173,7 +173,7 @@
 
 /* vietnamese */
 @font-face {
-  font-family: 'Hepta Slab';
+  font-family: 'Hepta Slab' !important;
   font-style: normal;
   font-weight: 1 900;
   src: url(https://fonts.gstatic.com/s/heptaslab/v5/ea8cadoyU_jkHdalebHv42ZlhHCXA3CUHw.woff2) format('woff2');
@@ -181,7 +181,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Hepta Slab';
+  font-family: 'Hepta Slab' !important;
   font-style: normal;
   font-weight: 1 900;
   src: url(https://fonts.gstatic.com/s/heptaslab/v5/ea8cadoyU_jkHdalebHv42dlhHCXA3CUHw.woff2) format('woff2');
@@ -189,7 +189,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Hepta Slab';
+  font-family: 'Hepta Slab' !important;
   font-style: normal;
   font-weight: 1 900;
   src: url(https://fonts.gstatic.com/s/heptaslab/v5/ea8cadoyU_jkHdalebHv42llhHCXA3A.woff2) format('woff2');
@@ -198,7 +198,7 @@
 
 /* latin-ext */
 @font-face {
-  font-family: 'Kreon';
+  font-family: 'Kreon' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/kreon/v19/t5tuIRIUKY-TFHXJc2idrq7o9Tg.woff2) format('woff2');
@@ -206,7 +206,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Kreon';
+  font-family: 'Kreon' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/kreon/v19/t5tuIRIUKY-TFHXHc2idrq7o.woff2) format('woff2');
@@ -215,7 +215,7 @@
 
 /* cyrillic */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata' !important;
   font-style: italic;
   font-weight: 400 700;
   src: url(https://fonts.gstatic.com/s/literata/v13/or3nQ6P12-iJxAIgLYT1FrMdmhHkjkotbA.woff2) format('woff2');
@@ -223,7 +223,7 @@
 }
 /* greek-ext */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata' !important;
   font-style: italic;
   font-weight: 400 700;
   src: url(https://fonts.gstatic.com/s/literata/v13/or3nQ6P12-iJxAIgLYT1FrsdmhHkjkotbA.woff2) format('woff2');
@@ -231,7 +231,7 @@
 }
 /* greek */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata' !important;
   font-style: italic;
   font-weight: 400 700;
   src: url(https://fonts.gstatic.com/s/literata/v13/or3nQ6P12-iJxAIgLYT1FrQdmhHkjkotbA.woff2) format('woff2');
@@ -239,7 +239,7 @@
 }
 /* vietnamese */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata' !important;
   font-style: italic;
   font-weight: 400 700;
   src: url(https://fonts.gstatic.com/s/literata/v13/or3nQ6P12-iJxAIgLYT1FrgdmhHkjkotbA.woff2) format('woff2');
@@ -247,7 +247,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata' !important;
   font-style: italic;
   font-weight: 400 700;
   src: url(https://fonts.gstatic.com/s/literata/v13/or3nQ6P12-iJxAIgLYT1FrkdmhHkjkotbA.woff2) format('woff2');
@@ -255,7 +255,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata' !important;
   font-style: italic;
   font-weight: 400 700;
   src: url(https://fonts.gstatic.com/s/literata/v13/or3nQ6P12-iJxAIgLYT1FrcdmhHkjko.woff2) format('woff2');
@@ -264,7 +264,7 @@
 
 /* cyrillic */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata' !important;
   font-style: normal;
   font-weight: 400 700;
   src: url(https://fonts.gstatic.com/s/literata/v13/or3hQ6P12-iJxAIgLYT0JrUXnTPmvks.woff2) format('woff2');
@@ -272,7 +272,7 @@
 }
 /* greek-ext */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata' !important;
   font-style: normal;
   font-weight: 400 700;
   src: url(https://fonts.gstatic.com/s/literata/v13/or3hQ6P12-iJxAIgLYT8JrUXnTPmvks.woff2) format('woff2');
@@ -280,7 +280,7 @@
 }
 /* greek */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata' !important;
   font-style: normal;
   font-weight: 400 700;
   src: url(https://fonts.gstatic.com/s/literata/v13/or3hQ6P12-iJxAIgLYTzJrUXnTPmvks.woff2) format('woff2');
@@ -288,7 +288,7 @@
 }
 /* vietnamese */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata' !important;
   font-style: normal;
   font-weight: 400 700;
   src: url(https://fonts.gstatic.com/s/literata/v13/or3hQ6P12-iJxAIgLYT_JrUXnTPmvks.woff2) format('woff2');
@@ -296,7 +296,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata' !important;
   font-style: normal;
   font-weight: 400 700;
   src: url(https://fonts.gstatic.com/s/literata/v13/or3hQ6P12-iJxAIgLYT-JrUXnTPmvks.woff2) format('woff2');
@@ -304,7 +304,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata' !important;
   font-style: normal;
   font-weight: 400 700;
   src: url(https://fonts.gstatic.com/s/literata/v13/or3hQ6P12-iJxAIgLYTwJrUXnTPm.woff2) format('woff2');
@@ -313,7 +313,7 @@
 
 /* arabic */
 @font-face {
-  font-family: 'Markazi Text';
+  font-family: 'Markazi Text' !important;
   font-style: normal;
   font-weight: 400 700;
   src: url(https://fonts.gstatic.com/s/markazitext/v8/syk0-ydym6AtQaiEtX7yhqbVpHWVBVLqUqsY.woff2) format('woff2');
@@ -321,7 +321,7 @@
 }
 /* vietnamese */
 @font-face {
-  font-family: 'Markazi Text';
+  font-family: 'Markazi Text' !important;
   font-style: normal;
   font-weight: 400 700;
   src: url(https://fonts.gstatic.com/s/markazitext/v8/syk0-ydym6AtQaiEtX7yhqbVrnWVBVLqUqsY.woff2) format('woff2');
@@ -329,7 +329,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Markazi Text';
+  font-family: 'Markazi Text' !important;
   font-style: normal;
   font-weight: 400 700;
   src: url(https://fonts.gstatic.com/s/markazitext/v8/syk0-ydym6AtQaiEtX7yhqbVr3WVBVLqUqsY.woff2) format('woff2');
@@ -337,7 +337,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Markazi Text';
+  font-family: 'Markazi Text' !important;
   font-style: normal;
   font-weight: 400 700;
   src: url(https://fonts.gstatic.com/s/markazitext/v8/syk0-ydym6AtQaiEtX7yhqbVoXWVBVLqUg.woff2) format('woff2');
@@ -346,7 +346,7 @@
 
 /* cyrillic-ext */
 @font-face {
-  font-family: 'Oswald';
+  font-family: 'Oswald' !important;
   font-style: normal;
   font-weight: 200 700;
   src: url(https://fonts.gstatic.com/s/oswald/v26/TK3iWkUHHAIjg752FD8Gl-1PK62t.woff2) format('woff2');
@@ -354,7 +354,7 @@
 }
 /* cyrillic */
 @font-face {
-  font-family: 'Oswald';
+  font-family: 'Oswald' !important;
   font-style: normal;
   font-weight: 200 700;
   src: url(https://fonts.gstatic.com/s/oswald/v26/TK3iWkUHHAIjg752HT8Gl-1PK62t.woff2) format('woff2');
@@ -362,7 +362,7 @@
 }
 /* vietnamese */
 @font-face {
-  font-family: 'Oswald';
+  font-family: 'Oswald' !important;
   font-style: normal;
   font-weight: 200 700;
   src: url(https://fonts.gstatic.com/s/oswald/v26/TK3iWkUHHAIjg752Fj8Gl-1PK62t.woff2) format('woff2');
@@ -370,7 +370,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Oswald';
+  font-family: 'Oswald' !important;
   font-style: normal;
   font-weight: 200 700;
   src: url(https://fonts.gstatic.com/s/oswald/v26/TK3iWkUHHAIjg752Fz8Gl-1PK62t.woff2) format('woff2');
@@ -378,7 +378,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Oswald';
+  font-family: 'Oswald' !important;
   font-style: normal;
   font-weight: 200 700;
   src: url(https://fonts.gstatic.com/s/oswald/v26/TK3iWkUHHAIjg752GT8Gl-1PKw.woff2) format('woff2');
@@ -387,7 +387,7 @@
 
 /* vietnamese */
 @font-face {
-  font-family: 'Quicksand';
+  font-family: 'Quicksand' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/quicksand/v15/6xKtdSZaM9iE8KbpRA_hJFQNYuDyP7bh.woff2) format('woff2');
@@ -395,7 +395,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Quicksand';
+  font-family: 'Quicksand' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/quicksand/v15/6xKtdSZaM9iE8KbpRA_hJVQNYuDyP7bh.woff2) format('woff2');
@@ -403,7 +403,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Quicksand';
+  font-family: 'Quicksand' !important;
   font-style: normal;
   font-weight: 300 700;
   src: url(https://fonts.gstatic.com/s/quicksand/v15/6xKtdSZaM9iE8KbpRA_hK1QNYuDyPw.woff2) format('woff2');
@@ -411,7 +411,7 @@
 }
 
 @font-face {
-    font-family: 'Amstelvar';
+    font-family: 'Amstelvar' !important;
     src: url('https://vf-prototype.s3.amazonaws.com/fonts/amstelvar-roman-vf-webfont.woff2') format('woff2'),
          url('https://vf-prototype.s3.amazonaws.com/fonts/amstelvar-roman-vf-webfont.woff') format('woff');
 }
